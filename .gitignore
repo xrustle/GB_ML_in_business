@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.idea/
+*/.ipynb_checkpoints/
+*/catboost_info/
+*/.idea/
+*/venv/
+**/__pycache__/
+**/*.pickle
